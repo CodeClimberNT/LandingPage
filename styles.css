@@ -1,0 +1,13 @@
+#nav-bar {
+    position: fixed;
+}
+
+#form{
+display: flex;
+}
+
+@media screen {
+    :root {
+        background-color: black;
+    }
+}
